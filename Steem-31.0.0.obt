@@ -1,6 +1,6 @@
 @OBSThemeMeta {
-    name: 'Steem31';
-    id: 'com.obsproject.Steem31';
+    name: 'Steem';
+    id: 'com.obsproject.Steem';
     author: 'Saulted';/* edit of TwitchTastic by EposVox */
     dark: 'true';
 }
