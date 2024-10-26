@@ -1,6 +1,6 @@
 @OBSThemeMeta {
-    name: 'Steem';
-    id: 'com.obsproject.Steem';
+    name: 'Steem31';
+    id: 'com.obsproject.Steem31';
     author: 'Saulted';/* edit of TwitchTastic by EposVox */
     dark: 'true';
 }
@@ -153,6 +153,7 @@
     --volume_slider_label: calc(var(--volume_slider) * 6);
 
     --scrollbar_size: 12px;
+    --settings_scrollbar_size: calc(var(--scrollbar_size) + 9px);
 
     /* Inputs / Controls */
     --border_color: var(--steemDark);
